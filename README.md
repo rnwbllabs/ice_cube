@@ -1,5 +1,7 @@
 # ice_cube - Easy schedule expansion
 
+**DSPTCH forks adds timezone aware parsing for iCal formats. The intent is to have this [PR'd ](https://github.com/ice-cube-ruby/ice_cube/pull/555)into the real IceCube and stop maintaining this fork**
+
 [![Tests](https://github.com/seejohnrun/ice_cube/actions/workflows/tests.yaml/badge.svg)](https://github.com/seejohnrun/ice_cube/actions/workflows/tests.yaml)
 [![Gem Version](https://badge.fury.io/rb/ice_cube.svg)](http://badge.fury.io/rb/ice_cube)
 [![Ruby Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://github.com/testdouble/standard)
